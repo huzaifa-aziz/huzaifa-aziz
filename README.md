@@ -1,7 +1,7 @@
 <h1 align="center">I am Huzaifa Aziz 👀</h1>
 <h3 align="center">Hi, i'm Huzaifa Aziz a passionate self-taught full stack web developer</h3>
 
-<img align="right" alt="coding" width="400" src="(https://i.gifer.com/6tXM.gif)">
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/6tXM.gif">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
