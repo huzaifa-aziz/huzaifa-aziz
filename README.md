@@ -12,7 +12,7 @@
 
 - 👯 I’m currently learning **Application Development**
 
-- 💬 Ask me about **LAravel and .net**
+- 💬 Ask me about **Laravel and asp.net**
 
 - 📫 How to reach me **azizh4495@gmail.com**
 
