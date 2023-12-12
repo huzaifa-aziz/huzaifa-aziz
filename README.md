@@ -1,5 +1,5 @@
 <h1 align="center">I am Huzaifa Aziz 👀</h1>
-<h3 align="center">Hi, i'm Huzaifa Aziz a passionate self-taught full stack web developer. from</h3>
+<h3 align="center">Hi, i'm Huzaifa Aziz a passionate self-taught full stack web developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://images.app.goo.gl/aSgrm9oeQGNiGXRq6">
 
